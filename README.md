@@ -172,7 +172,7 @@
 ### 🎮 Contribution Graph (Pacman Style)
 
 <p align="center">
-  <img src="https://github.com/dhagesakshi/dhagesakshi/blob/output/github-contribution-grid-pacman.svg" alt="Pacman Contribution Graph" />
+  <img src="https://github.com/dhagesakshi/dhagesakshi/raw/output/github-snake.svg" alt="Pacman Contribution Graph" />
 </p>
 
 > ⚙️ **Note:** To enable Pacman animation, fork [Platane/pacman-canvas](https://github.com/Platane/pacman-canvas)  
