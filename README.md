@@ -175,8 +175,7 @@
   <img src="https://github.com/dhagesakshi/dhagesakshi/raw/output/github-snake.svg" alt="Pacman Contribution Graph" />
 </p>
 
-> ⚙️ **Note:** To enable Pacman animation, fork [Platane/pacman-canvas](https://github.com/Platane/pacman-canvas)  
-> And set up GitHub Actions to push output to `output/github-contribution-grid-pacman.svg`.
+
 
 ---
 
