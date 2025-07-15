@@ -6,7 +6,7 @@
 
 ---
 ### Tech Stack:
-<img align="right" height="150" src="https://drive.google.com/file/d/1s8DRo6nm16BuQypLd-X7j10GxeOkm2Wd/view?usp=drive_link" alt="hi" />
+<img align="right" height="150" src="ghibli.jpg" alt="hi" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="43" alt="amazonwebservices logo"  />
