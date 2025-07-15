@@ -2,8 +2,11 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -19,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push SVG to the output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
