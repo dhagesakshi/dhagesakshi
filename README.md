@@ -5,8 +5,12 @@
 </p>
 
 ---
+<p align="center">
+<img height="200" src="assets/ghibli1.gif" alt="hi" />
+</p>
+
 ### Tech Stack:
-<img align="right" height="150" src="assets/ghibli1.gif" alt="hi" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="43" alt="amazonwebservices logo"  />
