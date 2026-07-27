@@ -1,4 +1,4 @@
-<h2 align="left">Hello Pretty Stranger! I'm Sakshi From India!</h2>
+<h2 align="left">Hey Pretty Stranger! </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20%7C%20Cloud%20Certified%20%7C%20Full-Stack%20Developer%20%7C%20AI-ML%20Learner&center=true&width=1000&height=45&color=58A6FF&vCenter=true&size=22" />
